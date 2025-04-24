@@ -135,5 +135,5 @@ cd ../install/bin
 
 ## 👨‍💻 Contributors
 
-- You (and team)
+- Tejes, Sindhu, Akash
 - Built using OpenCV + Qt5 on MSYS2 (MinGW)
